@@ -2,7 +2,7 @@
  
 ## Lyft-Challenge ##
 
-Main goal of the project is to create a neural network based on IC Net for real semantic segmentation of the scene.
+Main goal of the project is to create a neural network based on IC Net for real-time semantic segmentation of the scene.
 
 ## Result ##
 
